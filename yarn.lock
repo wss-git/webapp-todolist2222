@@ -130,12 +130,11 @@
     "@webassemblyjs/wast-parser" "1.8.5"
     "@xtuc/long" "4.2.2"
 
-"@webserverless/fc-express@0.1.0-next.ed155677":
-  version "0.1.0-next.ed155677"
-  resolved "https://registry.npm.taobao.org/@webserverless/fc-express/download/@webserverless/fc-express-0.1.0-next.ed155677.tgz#0d2e95c2ae7b330db1fa8d77f6ae600632d25a4b"
+"@webserverless/fc-express@latest":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@webserverless/fc-express/-/fc-express-0.1.4.tgz#9da4da0570e1c1ea7f666258b46228588e9a8bf1"
   dependencies:
     binary-case "^1.1.4"
-    express "^4.17.0"
     type-is "^1.6.18"
     url "^0.11.0"
 
@@ -163,8 +162,8 @@ acorn-dynamic-import@^4.0.0:
   resolved "https://registry.npm.taobao.org/acorn-dynamic-import/download/acorn-dynamic-import-4.0.0.tgz#482210140582a36b83c3e342e1cfebcaa9240948"
 
 acorn@^6.0.5:
-  version "6.1.1"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-6.1.1.tgz#7d25ae05bb8ad1f9b699108e1094ecd7884adc1f"
+  version "6.4.2"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.2.tgz#35866fd710528e92de10cf06016498e47e39e1e6"
 
 ajv-errors@^1.0.0:
   version "1.0.1"
@@ -771,9 +770,9 @@ bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.4.0:
   version "4.11.8"
   resolved "https://registry.npm.taobao.org/bn.js/download/bn.js-4.11.8.tgz#2cde09eb5ee341f484746bb0309b3253b1b1442f"
 
-body-parser@1.19.0:
+body-parser@1.19.0, body-parser@^1.19.0:
   version "1.19.0"
-  resolved "https://registry.npm.taobao.org/body-parser/download/body-parser-1.19.0.tgz#96b2709e57c9c4e09a6fd66a8fd979844f69f08a"
+  resolved "https://registry.yarnpkg.com/body-parser/-/body-parser-1.19.0.tgz#96b2709e57c9c4e09a6fd66a8fd979844f69f08a"
   dependencies:
     bytes "3.1.0"
     content-type "~1.0.4"
